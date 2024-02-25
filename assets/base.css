@@ -458,6 +458,7 @@ table:not([class]) th {
 
 .left {
   text-align: left;
+  width: 45%;
 }
 
 .center {
