@@ -103,6 +103,15 @@
         "color_scheme": "scheme-3"
       }
     },
+    "custom_liquid_GDWLYf": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"wk-auction\" prod-id=\"{{ product.id }}\" cust-id=\"{{ customer.id }}\"><\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,
@@ -135,6 +144,7 @@
     "rich_text_ATnrLa",
     "multicolumn_z3bNEK",
     "banner",
+    "custom_liquid_GDWLYf",
     "product-grid",
     "1708785691278333c1"
   ]
