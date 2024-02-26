@@ -73,9 +73,10 @@
 
 /* base */
 
-.uk-text-default p {
+.uk-text-default p,
+li {
   background-color: white;
-  margin: 4%;
+  margin: 6%;
 }
 
 .uk-text-default {
