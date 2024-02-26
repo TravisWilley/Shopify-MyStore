@@ -73,6 +73,10 @@
 
 /* base */
 
+.uk-text-default p {
+  background-color: white;
+}
+
 .ecb-block-margin-medium {
   background-color: lightgrey;
 }
@@ -1179,10 +1183,6 @@ summary::-webkit-details-marker {
 
 .media.media--hover-effect > img + img {
   opacity: 0;
-}
-
-.uk-text-default p {
-  background-color: white;
 }
 
 @media screen and (min-width: 990px) {
