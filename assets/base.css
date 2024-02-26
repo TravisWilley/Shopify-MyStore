@@ -76,7 +76,10 @@
 .uk-text-default p {
   background-color: white;
   margin: 4%;
-  border-radius: 3%;
+}
+
+.uk-text-default {
+  margin: 4%;
 }
 
 .ecb-block-margin-medium {
