@@ -76,10 +76,13 @@
 .uk-text-default p {
   background-color: white;
   margin: 2%;
+  border-radius: 3%;
 }
 
 .ecb-block-margin-medium {
   background-color: lightgrey;
+  margin: 2%;
+  border-radius: 3%;
 }
 
 .no-js:not(html) {
