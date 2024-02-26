@@ -73,6 +73,10 @@
 
 /* base */
 
+.ecb-block-margin-medium {
+  background-color: lightgrey;
+}
+
 .no-js:not(html) {
   display: none !important;
 }
@@ -1177,9 +1181,8 @@ summary::-webkit-details-marker {
   opacity: 0;
 }
 
-.uk-text-default {
+.uk-text-default p {
   background-color: lightgray;
-  border-radius: 2%;
 }
 
 @media screen and (min-width: 990px) {
