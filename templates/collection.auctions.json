@@ -42,6 +42,59 @@
         "padding_bottom": 52
       }
     },
+    "multicolumn_z3bNEK": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Dhmrdd": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>100%<\/strong>",
+            "text": "<p>Of Our Cases Have Signed Retainers<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_cgkpmV": {
+          "type": "column",
+          "settings": {
+            "title": "Complete",
+            "text": "<p>Transparency Into Every Case - Before You Bid<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PMadnm": {
+          "type": "column",
+          "settings": {
+            "title": "Zero",
+            "text": "<p>Upfront Deposit Or Commitment Required<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Dhmrdd",
+        "column_cgkpmV",
+        "column_PMadnm"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -80,6 +133,7 @@
   },
   "order": [
     "rich_text_ATnrLa",
+    "multicolumn_z3bNEK",
     "banner",
     "product-grid",
     "1708785691278333c1"
