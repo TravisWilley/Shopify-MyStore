@@ -81,6 +81,8 @@ li {
 
 .uk-text-default {
   margin: 4%;
+  margin-top: 2rem;
+  border-radius: 4%;
 }
 
 .ecb-block-margin-medium {
