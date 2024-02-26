@@ -1182,7 +1182,7 @@ summary::-webkit-details-marker {
 }
 
 .uk-text-default p {
-  background-color: lightgray;
+  background-color: white;
 }
 
 @media screen and (min-width: 990px) {
